@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ok
+ *
+ */
+module EchoApplication {
+}
